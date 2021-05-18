@@ -1,0 +1,11 @@
+.other-days-info {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(122, 163, 211, 0.84);
+    margin: 0 10vw 0 10vw;
+    padding-top: 15px;
+    text-align: center;
+    height: 39vh;
+    min-width: 650px;
+    max-height: 250px;
+}

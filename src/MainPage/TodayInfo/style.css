@@ -1,0 +1,26 @@
+.today-section {
+    background-color: rgba(206, 233, 233, 0.69);
+    margin: 0 10vw 0 10vw;
+    min-width: 650px;
+}
+
+.main-today-info {
+    padding-top: 2vh;
+    color: #484848;
+    height: 35vh;
+    min-height: 100px;
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+}
+
+.main-today-info h3 {
+    color: #484848;
+}
+
+.ant-btn-primary {
+    background-color: rgb(104, 153, 211);
+    border-color: rgb(104, 153, 211);
+}
+
+
